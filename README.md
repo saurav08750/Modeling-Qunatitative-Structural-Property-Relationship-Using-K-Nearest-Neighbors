@@ -1,1 +1,1 @@
-# Modeling-Qunatitative-Structural-Property-Relationship-Using-K-Nearest-Neighbors
+# Modeling Quantitative Structural Property Relationship Using K-Nearest Neighbors
